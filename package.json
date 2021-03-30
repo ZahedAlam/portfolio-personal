@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-personal",
+  "version": "1.0.0",
+  "description": "A simple portflio website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZahedAlam/portfolio-personal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZahedAlam/portfolio-personal/issues"
+  },
+  "homepage": "https://github.com/ZahedAlam/portfolio-personal#readme",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
